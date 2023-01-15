@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'v9.5.0',
-    'version' => '9.5.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'e4c7fc08cdaa8fe7e1e694b65cdd2a5c549220dc',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -34,6 +34,15 @@
         0 => '*',
       ),
     ),
+    'dcat/laravel-admin' => 
+    array (
+      'pretty_version' => '2.2.2-beta',
+      'version' => '2.2.2.0-beta',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '150f46486871b5ca57992f7eed3787e0c1c49bef',
+    ),
     'dflydev/dot-access-data' => 
     array (
       'pretty_version' => 'v3.0.2',
@@ -43,6 +52,24 @@
       ),
       'reference' => 'f41715465d65213d644d3141a6a93081be5d3549',
     ),
+    'doctrine/cache' => 
+    array (
+      'pretty_version' => '2.2.0',
+      'version' => '2.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '1ca8f21980e770095a31456042471a57bc4c68fb',
+    ),
+    'doctrine/dbal' => 
+    array (
+      'pretty_version' => '3.5.3',
+      'version' => '3.5.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '88fa7e5189fd5ec6682477044264dc0ed4e3aa1e',
+    ),
     'doctrine/deprecations' => 
     array (
       'pretty_version' => 'v1.0.0',
@@ -51,6 +78,15 @@
       array (
       ),
       'reference' => '0e2a4f1f8cdfc7a92ec3b01c9334898c806b30de',
+    ),
+    'doctrine/event-manager' => 
+    array (
+      'pretty_version' => '2.0.0',
+      'version' => '2.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '750671534e0241a7c50ea5b43f67e23eb5c96f32',
     ),
     'doctrine/inflector' => 
     array (
@@ -411,12 +447,12 @@
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => 'v9.5.0',
-      'version' => '9.5.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'e4c7fc08cdaa8fe7e1e694b65cdd2a5c549220dc',
     ),
     'laravel/pint' => 
     array (
@@ -668,6 +704,15 @@
       ),
       'reference' => '954ca3113a03bf780d22f07bf055d883ee04b65e',
     ),
+    'psr/cache' => 
+    array (
+      'pretty_version' => '3.0.0',
+      'version' => '3.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'aa5030cfa5405eccfdcb1083ce040c2cb8d253bf',
+    ),
     'psr/container' => 
     array (
       'pretty_version' => '2.0.2',
@@ -761,8 +806,8 @@
     array (
       'provided' => 
       array (
-        0 => '1.0|2.0|3.0',
-        1 => '1.0.0 || 2.0.0 || 3.0.0',
+        0 => '1.0.0 || 2.0.0 || 3.0.0',
+        1 => '1.0|2.0|3.0',
       ),
     ),
     'psr/simple-cache' => 
@@ -977,6 +1022,15 @@
       ),
       'reference' => '4ee7d41aa5268107906ea8a4d9ceccde136dbd5b',
     ),
+    'spatie/eloquent-sortable' => 
+    array (
+      'pretty_version' => '4.0.1',
+      'version' => '4.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '64a3365c0d5a7b4a1837b2f29d01ee4c578c416a',
+    ),
     'spatie/flare-client-php' => 
     array (
       'pretty_version' => '1.3.2',
@@ -1003,6 +1057,15 @@
       array (
       ),
       'reference' => '1a2b4bd3d48c72526c0ba417687e5c56b5cf49bc',
+    ),
+    'spatie/laravel-package-tools' => 
+    array (
+      'pretty_version' => '1.14.0',
+      'version' => '1.14.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '9964e65c318c30577ca1b91469f739d2b381359b',
     ),
     'symfony/console' => 
     array (
